@@ -215,9 +215,11 @@ Markdown 区块引用是在段落开头使用 `>` 符号 ，然后后面紧跟�
 也可以用 ``` 包裹一段代码，并指定一种语言（也可以不指定）：
 实例如下：
 ```javascript
+```javascript
 $(document).ready(function () {
     alert('RUNOOB');
 });
+````
 ```
 
 # Markdown 链接

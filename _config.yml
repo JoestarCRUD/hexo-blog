@@ -104,7 +104,7 @@ theme: arknights
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/JoestarCRUD/zhaiye.github.io
+  repo: git@github.com:JoestarCRUD/zhaiye.github.io.git
   branch: master
 
 search:                     # 实现搜索文章的功能
