@@ -4,6 +4,7 @@ date: 2021-01-14 04:00:00
 tags: Arknights
 category: 活动
 permalink: /news/
+top: 1
 ---
 
 ![img](https://ak.hypergryph.com/upload/images/20210114/91c518dcf4d1b00dfdd647c4cbbeea50.jpg)

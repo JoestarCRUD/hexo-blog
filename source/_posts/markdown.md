@@ -228,7 +228,7 @@ $(document).ready(function () {
 > 或者直接使用链接地址
 > <https://github.com/JoestarCRUD>
 ```markdown
-[链接名称](链接地址)
+[JoestarCRUD](https://github.com/JoestarCRUD)
 <https://github.com/JoestarCRUD>
 ```
 
